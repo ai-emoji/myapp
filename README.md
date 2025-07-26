@@ -8,14 +8,30 @@ git config --global user.email "email@example.com"
 
 cd đường/dẫn/tới/project
 git init
-git add .
-git commit -m "Thông điệp commit"
+git remote remove origin
 git remote add origin https://github.com/ai-emoji/myapp.git
-git push -u origin master
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "Your message"
+git push
 
-Cách pull (kéo) code từ GitHub về máy tính (Git pull)
-cd đường/dẫn/đến/thu_muc
+
 git clone https://github.com/ai-emoji/myapp.git
+git remote -v
+Nếu chưa có hoặc sai, thêm lại:
+git remote remove origin
+git remote add origin https://github.com/ai-emoji/myapp.git
+git add .
+git commit -m "Update code from another machine"
+git push -u origin main
+
+git pull origin main
+git add .
+git commit -m "Cập nhật từ máy A"
+git push
 
 
 Thiết lập kiểm tra git
