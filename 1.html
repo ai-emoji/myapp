@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="/test/data/css/main-header.css">
+</head>
+<style>
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main-header {
+    background-color: #0095ffff;
+    display: flex;
+    width: 100%;
+    position: relative;
+}
+
+#header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    min-width: 1200px;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.name-shop {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#header-end {
+    margin-left: auto;
+    padding: 10px 20px;
+}
+</style>
+<body>
+    <div class="" id="main-header">
+        <div class="" id="header-top">
+            <a href="" class="logo-link">
+                <img src="/test/data/svg/logo.svg" alt="logo Shop" class="logo">
+                <span class="name-shop">Shop</span>
+            </a>
+            <div class="search" id="search">
+                <input type="text" class="search-input" placeholder="Search for products...">
+                <button>Search</button>
+            </div>
+            <div class="user-actions">
+                <a href="/profile" class="profile-link">
+                    <img src="/test/data/svg/user.svg" alt="User Profile" class="user-icon">
+                    <span class="username">Username</span>
+                </a>
+                <div class="user-actions">
+                    <a href="/login" class="login-link">Đăng Nhập</a>
+                    <a href="/register" class="register-link">Đăng Ký</a>
+                </div>
+            </div>
+            <div class="user-actions">
+                <a href="/cart" class="cart-link">
+                    <img src="/test/data/svg/cart.svg" alt="Cart" class="cart-icon">
+                    <span class="cart-count">0</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="" id="header-end"> </div>
+</body>
+
+</html>
