@@ -1,0 +1,56 @@
+[2025-12-18 19:54:18] Button clicked: Kết nối
+[2025-12-18 19:54:19] Button clicked: Tải NV lên máy chấm công
+[2025-12-18 19:54:22] Button clicked: Tải NV lên máy chấm công
+[2025-12-18 19:55:18] Button clicked: Kết nối
+[2025-12-18 19:55:19] Button clicked: Tải NV lên máy chấm công
+[2025-12-18 19:55:19] ShiftUploadRepository: _init_table() called
+[2025-12-18 19:55:19] ShiftUploadRepository: Table initialized successfully
+[2025-12-18 19:55:19] DeviceRepository: _init_table() called
+[2025-12-18 19:55:20] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:55:20] EmployeeRepository: _init_table() called
+[2025-12-18 19:55:20] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:55:20] EmployeeRepository: _init_table() called
+[2025-12-18 19:55:20] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:55:20] DeviceRepository: _init_table() called
+[2025-12-18 19:55:20] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:55:20] ControllerWidgetsShift: Signals connected
+[2025-12-18 19:55:20] ControllerWidgetsShift: _load_employees() called
+[2025-12-18 19:55:20] ControllerWidgetsShift: Loaded 0 employees
+[2025-12-18 19:55:36] ControllerWidgetsShift: Uploading file: H:/myapp/upload_nhanvien_mau.xlsx
+[2025-12-18 19:56:50] Button clicked: Chấm công
+[2025-12-18 19:56:52] Button clicked: Kết nối
+[2025-12-18 19:56:53] Button clicked: Tải NV lên máy chấm công
+[2025-12-18 19:56:53] ShiftUploadRepository: _init_table() called
+[2025-12-18 19:56:53] ShiftUploadRepository: Table initialized successfully
+[2025-12-18 19:56:53] DeviceRepository: _init_table() called
+[2025-12-18 19:56:53] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:56:53] EmployeeRepository: _init_table() called
+[2025-12-18 19:56:53] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:56:53] EmployeeRepository: _init_table() called
+[2025-12-18 19:56:53] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:56:53] DeviceRepository: _init_table() called
+[2025-12-18 19:56:53] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:56:53] ControllerWidgetsShift: Signals connected
+[2025-12-18 19:56:53] ControllerWidgetsShift: _load_employees() called
+[2025-12-18 19:56:53] ControllerWidgetsShift: Loaded 0 employees
+[2025-12-18 19:56:59] ControllerWidgetsShift: Uploading file: H:/myapp/upload_nhanvien_mau.xlsx
+[2025-12-18 19:57:01] ControllerWidgetsShift: Uploaded 0 employees from file
+[2025-12-18 19:57:10] ControllerWidgetsShift: Uploading file: H:/myapp/upload_nhanvien_mau.xlsx
+[2025-12-18 19:57:37] ControllerWidgetsShift: Uploaded 0 employees from file
+[2025-12-18 19:57:44] Button clicked: Kết nối
+[2025-12-18 19:57:44] Button clicked: Tải NV lên máy chấm công
+[2025-12-18 19:57:44] ShiftUploadRepository: _init_table() called
+[2025-12-18 19:57:44] ShiftUploadRepository: Table initialized successfully
+[2025-12-18 19:57:44] DeviceRepository: _init_table() called
+[2025-12-18 19:57:44] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:57:44] EmployeeRepository: _init_table() called
+[2025-12-18 19:57:44] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:57:44] EmployeeRepository: _init_table() called
+[2025-12-18 19:57:44] EmployeeRepository: Table initialized successfully
+[2025-12-18 19:57:44] DeviceRepository: _init_table() called
+[2025-12-18 19:57:44] DeviceRepository: Table device initialized successfully
+[2025-12-18 19:57:44] ControllerWidgetsShift: Signals connected
+[2025-12-18 19:57:44] ControllerWidgetsShift: _load_employees() called
+[2025-12-18 19:57:44] ControllerWidgetsShift: Loaded 0 employees
+[2025-12-18 19:59:07] EmployeeRepository: _init_table() called
+[2025-12-18 19:59:07] EmployeeRepository: Table initialized successfully
